@@ -1,0 +1,16 @@
+
+#include	"Person.h"
+class Person
+{
+	public:
+		void showName();
+		void showAge();
+}
+void Person::showName()
+{
+	
+}
+void Person::showAge()
+{
+	
+}
