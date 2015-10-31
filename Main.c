@@ -6,4 +6,5 @@ void main()
 	printf("Third add comments here.\r\n");
 	String string; 
 	String string2;
+	String string3;
 }
