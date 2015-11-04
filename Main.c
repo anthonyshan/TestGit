@@ -8,4 +8,7 @@ void main()
 	String string2;
 	String string3;
 	String string4;
+	/**
+	** Creating a new branch is quick.
+	**/
 }
